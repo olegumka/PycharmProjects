@@ -1,1 +1,1 @@
-print ('Hello, Git!:)')
+print ('Hello, Olegumka!\nIam glad to work with you! ')
